@@ -1,0 +1,111 @@
+2023-01-12 2:51:35 - PHP Warning:  mysqli::__construct(): (HY000/1045): ProxySQL Error: Access denied for user 'id20042041_tugas'@'2a02:4780:bad:f00d::10' (using password: NO) in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:51:35 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:51:35 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:51:35 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:51:35 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:51:46 - PHP Warning:  mysqli::__construct(): (HY000/1045): ProxySQL Error: Access denied for user 'id20042041_tugas'@'2a02:4780:bad:f00d::10' (using password: YES) in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:51:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:51:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:51:46 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:51:46 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:01 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:01 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:01 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:01 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:17 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:17 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:17 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:17 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:17 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:47 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:47 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:47 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:47 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:47 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:47 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:47 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:47 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:55 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:55 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:52:55 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:55 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:52:55 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:52:55 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:53:15 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:53:15 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:53:15 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:53:15 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:53:15 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:53:15 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:53:43 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:53:43 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:53:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:53:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:53:43 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:53:43 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:53:46 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:53:46 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:53:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:53:46 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:53:46 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:53:46 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:53:48 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:53:48 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:53:48 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:53:48 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:53:48 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:53:48 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:04 - PHP Warning:  mysqli::__construct(): (HY000/1045): ProxySQL Error: Access denied for user 'id20042041_tugas'@'2a02:4780:bad:f00d::10' (using password: YES) in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:55:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:04 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:04 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:04 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:18 - PHP Warning:  mysqli::__construct(): (HY000/1045): ProxySQL Error: Access denied for user 'id20042041_opencart'@'2a02:4780:bad:f00d::10' (using password: YES) in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:55:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:18 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:18 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:25 - PHP Warning:  mysqli::__construct(): (HY000/1045): ProxySQL Error: Access denied for user 'id20042041_opencart'@'2a02:4780:bad:f00d::10' (using password: YES) in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:55:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:25 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:25 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:33 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:55:33 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:55:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:33 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:33 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:44 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:55:44 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 7
+2023-01-12 2:55:44 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:44 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /storage/ssd5/041/20042041/public_html/system/library/db/mysqli.php on line 10
+2023-01-12 2:55:44 - PHP Notice:  Undefined variable: mysql in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 2:55:44 - PHP Notice:  Trying to get property 'connect_error' of non-object in /storage/ssd5/041/20042041/public_html/install/controller/install/step_3.php on line 280
+2023-01-12 3:06:00 - PHP Warning:  ZipArchive::extractTo(/storage/ssd5/041/20042041/public_html/system/storage/upload/tmp-dhkSKUQqsX/upload/catalog/view/theme/sellr/template/extension/module/paypal_smart_button/payment_address.twig): failed to open stream: Disk quota exceeded in /storage/ssd5/041/20042041/public_html/admin/controller/marketplace/install.php on line 64
+2023-01-12 3:10:20 - PHP Warning:  ZipArchive::extractTo(/storage/ssd5/041/20042041/public_html/system/storage/upload/tmp-YVrHZo8fGe/upload/catalog/view/theme/sellr/template/checkout/cart.twig): failed to open stream: Disk quota exceeded in /storage/ssd5/041/20042041/public_html/admin/controller/marketplace/install.php on line 64
+2023-01-12 3:12:32 - PHP Warning:  ZipArchive::extractTo(/storage/ssd5/041/20042041/public_html/system/storage/upload/tmp-2YU79m878c/upload/catalog/view/theme/sellr/template/checkout/cart.twig): failed to open stream: Disk quota exceeded in /storage/ssd5/041/20042041/public_html/admin/controller/marketplace/install.php on line 64
+2023-01-12 3:24:38 - PHP Warning:  ZipArchive::extractTo(): Disk quota exceeded in /storage/ssd5/041/20042041/public_html/admin/controller/marketplace/install.php on line 64
+2023-01-12 3:24:45 - PHP Notice:  tempnam(): file created in the system's temporary directory in /storage/ssd5/041/20042041/public_html/system/library/template/Twig/Cache/Filesystem.php on line 68
+2023-01-12 3:24:48 - PHP Notice:  tempnam(): file created in the system's temporary directory in /storage/ssd5/041/20042041/public_html/system/library/template/Twig/Cache/Filesystem.php on line 68
+2023-01-12 3:24:52 - PHP Notice:  tempnam(): file created in the system's temporary directory in /storage/ssd5/041/20042041/public_html/system/library/template/Twig/Cache/Filesystem.php on line 68
+2023-01-12 3:24:56 - PHP Notice:  tempnam(): file created in the system's temporary directory in /storage/ssd5/041/20042041/public_html/system/library/template/Twig/Cache/Filesystem.php on line 68
+2023-01-12 3:25:37 - PHP Warning:  imagejpeg(/storage/ssd5/041/20042041/public_html/image/cache/catalog/demo/htc_touch_hd_1-228x228.jpg): failed to open stream: Disk quota exceeded in /storage/ssd5/041/20042041/public_html/system/library/image.php on line 121
+2023-01-12 3:25:37 - PHP Warning:  imagejpeg(/storage/ssd5/041/20042041/public_html/image/cache/catalog/demo/iphone_1-228x228.jpg): failed to open stream: Disk quota exceeded in /storage/ssd5/041/20042041/public_html/system/library/image.php on line 121
+2023-01-12 3:25:37 - PHP Warning:  imagejpeg(/storage/ssd5/041/20042041/public_html/image/cache/catalog/demo/palm_treo_pro_1-228x228.jpg): failed to open stream: Disk quota exceeded in /storage/ssd5/041/20042041/public_html/system/library/image.php on line 121
+2023-01-12 3:25:37 - PHP Notice:  tempnam(): file created in the system's temporary directory in /storage/ssd5/041/20042041/public_html/system/library/template/Twig/Cache/Filesystem.php on line 68
+2023-01-12 4:33:55 - PHP Notice:  getimagesize(): Read error! in /storage/ssd5/041/20042041/public_html/admin/model/tool/image.php on line 14
+2023-01-12 4:34:29 - PHP Notice:  getimagesize(): Read error! in /storage/ssd5/041/20042041/public_html/admin/model/tool/image.php on line 14
+2023-01-12 4:34:33 - PHP Notice:  getimagesize(): Read error! in /storage/ssd5/041/20042041/public_html/admin/model/tool/image.php on line 14
+2023-01-12 4:34:45 - PHP Notice:  getimagesize(): Read error! in /storage/ssd5/041/20042041/public_html/admin/model/tool/image.php on line 14
+2023-01-12 4:35:22 - PHP Notice:  getimagesize(): Read error! in /storage/ssd5/041/20042041/public_html/admin/model/tool/image.php on line 14
+2023-01-12 4:35:27 - PHP Notice:  getimagesize(): Read error! in /storage/ssd5/041/20042041/public_html/admin/model/tool/image.php on line 14
+2023-01-24 18:33:59 - PHP Warning:  unlink(/storage/ssd5/041/20042041/public_html/system/storage/cache/cache.catalog.language.1674198713): No such file or directory in /storage/ssd5/041/20042041/public_html/system/library/cache/file.php on line 17
+2023-01-25 2:14:49 - PHP Notice:  Undefined index: payment_method in /storage/ssd5/041/20042041/public_html/catalog/controller/extension/payment/cod.php on line 10
